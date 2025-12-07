@@ -36,8 +36,8 @@ SwipeHire is a modern job search platform that brings the simplicity of dating a
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Big-jpg/invoicepipe.git
-cd invoicepipe
+git clone https://github.com/Big-jpg/swipehire.git
+cd swipehire
 ```
 
 2. Install dependencies:
